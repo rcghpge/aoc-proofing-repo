@@ -27,7 +27,7 @@ Feel free to explore, learn, and contribute! Feedback and suggestions are welcom
 ---
 
 ## Future Plans  
-- Expand solutions for past AoC events in multiple programming languages to expand the scope of AoC as a learning path in programming and coding. 
+- Expand solutions for past AoC events in other programming languages to expand the scope in AoC as a learning path for programming and coding. 
 - Update and refine scripts to incorporate new techniques.  
 - Build a comprehensive proofing library for learning and collaboration.  
 
