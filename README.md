@@ -1,8 +1,34 @@
-# aoc-cheat-sheet  
-**Current:** Advent of Code cheat sheet 2024 - Python
+# aoc-proofing-repo  
+**Current Focus:** Advent of Code 2024 - Python  
 
-GitHub repository for cheat-sheet scripts for Advent of Code challenges.
+A GitHub repository designed for concept proofing, logic development, and sharing solutions for the annual [Advent of Code](https://adventofcode.com) (AoC) challenges.  
 
-**2024:** - Python 
+---
 
-**Disclaimer:** While some of these solutions are my own, others are based on shared ideas or approaches from the Advent of Code (AoC) community. I named this repository a "cheat sheet" to reflect its purpose as a resource for learning and collaboration. It is intended to help others participating in AoC events with Python or other programming languages, as well as to provide insights into problem-solving logic. Feedback is always welcome, so feel free to reach out! I plan to update this repository as I continue to participate in future or revisit past AoC events. Thank you for making this a shared learning journey!
+## Repository Overview  
+This repository serves as a collaborative and educational resource for tackling AoC puzzles. It includes:  
+- **Solutions**: Programming implementations of the annual Advent of Code event. 
+- **Concept Proofing**: Examples of algorithms and problem-solving techniques.  
+- **Learning Resource**: Insights into programming, coding, and problem-solving logic applied to AoC challenges.  
+
+2024 - Python
+
+---
+
+## Disclaimer  
+This repository features a mix of:  
+- Solutions I created independently while solving AoC challenges.  
+- Concepts and approaches influenced by and from resources and discussions from the AoC community and online sources.  
+
+The focus of this repository is on developing, testing, and refining problem-solving strategies. The intent is to support anyone interested in improving their programming and coding skills as well as for collaboration in the AoC community and larger tech community as a whole.  
+
+Feel free to explore, learn, and contribute! Feedback and suggestions are welcome to make this resource more beneficial for everyone.  
+
+---
+
+## Future Plans  
+- Expand solutions for past AoC events in multiple programming languages to expand the scope of AoC as a learning path in programming and coding. 
+- Update and refine scripts to incorporate new techniques.  
+- Build a comprehensive proofing library for learning and collaboration.  
+
+Thank you for being part of this shared learning journey!  
