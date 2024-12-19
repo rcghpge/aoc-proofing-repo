@@ -11,7 +11,7 @@ This repository serves as a collaborative and educational resource for tackling 
 - **Concept Proofing**: Examples of algorithms and problem-solving techniques.  
 - **Learning Resource**: Insights into programming, coding, and problem-solving logic applied to AoC challenges.  
 
-### Years:
+**Years:**
 - 2024: Python
 
 ---
