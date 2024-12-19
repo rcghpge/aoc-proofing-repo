@@ -18,7 +18,7 @@ This repository serves as a collaborative and educational resource for tackling 
 ## Disclaimer  
 This repository features a mix of:  
 - My own implementations, approaches, and solutions in AoC.  
-- Concepts and approaches influenced by and from resources and discussions from the AoC community and online sources.  
+- Concepts, implementations, and approaches influenced by and from resources and discussions from the AoC community and online sources.  
 
 The focus of this repository is on developing, testing, and refining problem-solving strategies. The intent is to support anyone interested in improving their programming and coding skills as well as for collaboration in the AoC community and larger tech community as a whole.  
 
