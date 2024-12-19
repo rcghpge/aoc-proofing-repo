@@ -26,6 +26,11 @@ Feel free to explore, learn, and contribute! Feedback and suggestions are welcom
 
 ---
 
+## Resources
+**Python:**
+- [Python Tutorial & Docs](https://docs.python.org/3/)
+- [Python @ Discord](https://discord.gg/python)
+
 ## Future Plans  
 - Expand solutions for past AoC events in other programming languages to expand the scope in AoC as a learning path for programming and coding. 
 - Update and refine scripts to incorporate new techniques.  
