@@ -1,3 +1,6 @@
+# Test 1: Part 1
+
+# Part 1:
 def get_data(input_file):
     with open(input_file, "r") as file:
         data = file.read().splitlines()
@@ -29,8 +32,8 @@ def get_answer(numbers, n):
 def main():
     file = "input.txt"
     secret_numbers = get_data(file)
-    asn1 = get_answer(secret_numbers, 2000)
-    print(f"{asn1=}")
+    part1 = get_answer(secret_numbers, 2000)
+    print(f"Part 1: {part1}")
 
 
 if __name__ == "__main__":
