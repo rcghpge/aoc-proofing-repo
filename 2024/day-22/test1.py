@@ -67,11 +67,13 @@ def part2(file_path: str) -> int:
 if __name__ == "__main__":
     input_file = "input.txt"
 
+
     # Part 1 runtime
     start_time = time.time()
     result1 = part1(input_file)
     end_time = time.time()
     elapsed_time1 = end_time - start_time
+    print(f"Solutions:")
     print(f"Part 1: {result1} (Execution Time: {elapsed_time1:.4f} seconds)")
 
     # Part 2 runtime

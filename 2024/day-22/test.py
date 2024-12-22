@@ -14,7 +14,7 @@ def count_numbers(input_file):
     for x in data:
         count += 1
     print(f"Input data: Number of buyers")
-    print(f"Number totals of input data: {count}\n")
+    print(f"Number totals of input data: {count}")
     return count
 
 
