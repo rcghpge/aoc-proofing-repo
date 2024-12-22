@@ -29,7 +29,7 @@ def _all_secrets(secret: int) -> list[int]:
         res.append(cur_val)
     return res
 
-def solve_a(file_path: str) -> int:
+def part1(file_path: str) -> int:
     return sum(
         _all_secrets(
             _,
@@ -53,7 +53,7 @@ def _possible_prices(
             res[pattern] = prices[_ + 4]
     return res
 
-def solve_b(file_path: str) -> int:
+def part2(file_path: str) -> int:
     results: dict[tuple[int, int, int, int], int] = {}
     for _ in _parse_input(file_path):
         prices = _prices(_)
@@ -64,17 +64,17 @@ def solve_b(file_path: str) -> int:
 if __name__ == "__main__":
     input_file = "input.txt"
 
-    # Timing solve_a
+    # Part 1 runtime
     start_time = time.time()
-    result_a = solve_a(input_file)
+    result1 = part1(input_file)
     end_time = time.time()
-    elapsed_time_a = end_time - start_time
-    print(f"Solution A: {result_a} (Execution Time: {elapsed_time_a:.3f} seconds)")
+    elapsed_time1 = end_time - start_time
+    print(f"Part 1: {result1} (Execution Time: {elapsed_time1:.4f} seconds)")
 
-    # Timing solve_b
+    # Part 2 runtime
     start_time = time.time()
-    result_b = solve_b(input_file)
+    result2 = part2(input_file)
     end_time = time.time()
-    elapsed_time_b = end_time - start_time
-    print(f"Solution B: {result_b} (Execution Time: {elapsed_time_b:.3f} seconds)")
+    elapsed_time2 = end_time - start_time
+    print(f"Part 2: {result2} (Execution Time: {elapsed_time2:.4f} seconds)")
 
