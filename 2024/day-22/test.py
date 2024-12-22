@@ -6,6 +6,17 @@ def get_data(input_file):
         data = file.read().splitlines()
     return [int(x) for x in data]
 
+# Input data - number of buyers
+def count_numbers(input_file):
+    with open(input_file, "r") as file:
+        data = file.read().splitlines()
+    count = 0
+    for x in data:
+        count += 1
+    print(f"Input data: Number of buyers")
+    print(f"Number totals of input data: {count}\n")
+    return count
+
 
 def mix(x, y):
     return x ^ y
@@ -30,9 +41,11 @@ def get_answer(numbers, n):
 
 
 def main():
+    count = count_numbers("input.txt")
     file = "input.txt"
     secret_numbers = get_data(file)
     part1 = get_answer(secret_numbers, 2000)
+    print(f"Solutions:")
     print(f"Part 1: {part1}")
 
 
