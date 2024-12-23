@@ -28,14 +28,15 @@ Feel free to explore, learn, and contribute! Feedback and suggestions are welcom
 ---
 
 ## Resources
+If you’re new to coding these resources will help you get started:
 **Python:**
-- [Python Tutorial & Docs](https://docs.python.org/3/)
-- [Python Packaging User Guide](https://packaging.python.org/en/latest/)
-- [uv Python Packaging](https://docs.astral.sh/uv/)
-- [Python @ Discord](https://discord.gg/python)
+- [Python Tutorial & Docs](https://docs.python.org/3/) - Official docs for learning Python fundamentals.
+- [Python @ Discord](https://discord.gg/python) - Join a large community of Python enthusiasts ready to help and chat.
 
 **Tooling**
-- [aocd](https://github.com/wimglenn/advent-of-code-data)
+- [aocd](https://github.com/wimglenn/advent-of-code-data) - A handy tool for fetching AoC inputs and submitting solutions from the command line.
+- [Python Packaging User Guide](https://packaging.python.org/en/latest/) - Learn how to properly structure and distribute Python projects.
+- [uv Python Packaging](https://docs.astral.sh/uv/) - Explore a modern approach to Python packaging.
 
 ---
 
@@ -43,5 +44,6 @@ Feel free to explore, learn, and contribute! Feedback and suggestions are welcom
 - Expand solutions for past AoC events in other programming languages to expand the scope in AoC as a learning path for programming and coding. 
 - Update and refine scripts to incorporate new techniques. 
 - Build a comprehensive proofing library for learning and collaboration. 
+
 
 Thank you for being part of this shared learning journey! 
