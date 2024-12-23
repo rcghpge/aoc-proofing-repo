@@ -29,6 +29,7 @@ Feel free to explore, learn, and contribute! Feedback and suggestions are welcom
 
 ## Resources
 If you’re new to coding these resources will help you get started:  
+
 **Python:**
 - [Python Tutorial & Docs](https://docs.python.org/3/) - Official docs for learning Python fundamentals.
 - [Python @ Discord](https://discord.gg/python) - Join a large community of Python enthusiasts ready to help and chat.
