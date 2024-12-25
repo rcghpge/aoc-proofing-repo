@@ -75,7 +75,7 @@ def wire_calculations():
         n1 = find(f"x{n}", f"y{n}", "AND", data[1])
 
         if c0:
-            # Binary addition - ripple carry ladder
+            # Binary addition - ripple carry adder
             r1 = find(c0, m1, "AND", data[1])
             if not r1:
                 m1, n1 = n1, m1
