@@ -1,6 +1,4 @@
 # aoc-proofing-repo  
-**Current:** Advent of Code 2024 - Python - Mojo
-
 A GitHub repository designed for concept proofing, logic development, and sharing solutions for the annual [Advent of Code](https://adventofcode.com) (AoC) challenges.  
 
 ---
